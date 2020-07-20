@@ -6,7 +6,7 @@ body {
 }
 
 #chatdiv {
-    width: 50%;
+    width: 70%;
     height: 100%;
     border: 1px solid lightgray;
 }
@@ -27,4 +27,29 @@ body {
     display: flex;
     margin: 0 auto;
 }
-
+div.background {
+    background: url(/pngguru.com.png);
+    width: 587px;
+    height: 100%;
+    align-content: center;
+    text-align: center;
+    
+  }
+  
+  div.transbox {
+    
+    background-color: #ffffff;
+    padding: 100px;
+    
+    opacity: 0.6;
+    height: 100%;
+    text-align: center;
+    color: #000000;
+  }
+  
+  div.transbox p {
+    margin: 20%;
+    font-weight: bold;
+    color: #000000;
+    padding: 100px;
+  }

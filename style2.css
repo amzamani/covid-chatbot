@@ -22,6 +22,7 @@
 .chat .chat-header {
     padding: 20px;
     border-bottom: 2px solid white;
+    background-color: #86BB71;
 }
 .chat .chat-header img {
     float: left;
@@ -92,6 +93,8 @@
 }
 .chat .chat-message {
     padding: 30px;
+    background-color: url(https://image.winudf.com/v2/image/Y29tLmNvZGVGYWN0b3J5LndhV2FsbHBhcGVyc19zY3JlZW5fMV8xNTMwNTY4MzE5XzA2Nw/screen-1.jpg?fakeurl=1&type=.jpg);
+
 }
 .chat .chat-message textarea {
     width: 100%;

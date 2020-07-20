@@ -1,2 +1,0 @@
-# CBChatBot
-CB ChatBot
