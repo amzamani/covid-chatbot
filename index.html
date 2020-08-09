@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Abu's ChatBot</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
@@ -17,6 +17,11 @@
             crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
     <script src="script.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    
 </head>
 
 <body>
@@ -32,8 +37,8 @@
         </a>
 
     </nav>
-    <div id="maindiv">
-        <div id="chatdiv">
+    <div class="row">
+        <div class="col-sm-6">
             <div class="container clearfix">
                 <div class="chat">
                     <div class="chat-header clearfix">
@@ -41,7 +46,7 @@
 
                         <div class="chat-about">
                             <div class="chat-with">Chat with Bot</div>
-                            <div class="chat-num-messages">Code your way to Success</div>
+                            <div class="chat-num-messages">Type "Hi" or "Hello" to beign chat</div>
                         </div>
                     </div> <!-- end chat-header -->
 
@@ -90,22 +95,28 @@
             </script>
 
         </div>
-        <div id="chatdiv2" >
+        <div class="col-sm-6" style="border: 1px solid lightgray; align-content: center;" >
             <!-- <img style="opacity: 0.5;" src="https://i1.pngguru.com/preview/433/946/560/facebook-chat-chatbot-artificial-intelligence-dialogflow-internet-bot-robot-customer-service-natural-language-processing-png-clipart.jpg" alt=""> -->
-            <div class="background">
-            <div class="transbox" style="width: 100%; text-align: center; font-size: x-large; padding: 40px">
-                <br>
-                <br>
-                <br>
-                Hey there friends !<br>
-                This is a simple yet amazing chatbot tutorial<br>
-                You'll learn about JSON, Javascript promises and APIs<br>
-                After this tutorial you can even feed your own data to the bot and have fun with it !<br>
-                So let's begin interacting with the Bot.<br>
-                <b>Send a simple "hello" message to begin</b>
-            </div></div>
+            
+            <div class="card bg-dark text-white">
+                <img src="/pngguru.com.png" class="card-img" alt="...">
+                <div class="card-img-overlay">
+
+
+                   
+                 
+                  <center><p class="card-text h3" style="padding: 25px;padding-top: 20%;">Hey there !
+                    This is a simple yet amazing chatbot
+                    Built using JSON, Javascript promises and APIs
+                    So let's begin interacting with the Bot.
+                    <b>Send a simple "hello" message to begin</b></p></p></center>
+                  
+                </div>
+              </div>
         </div>
     </div>
+
+
 
     <!--<div>-->
         <!--<br>-->
