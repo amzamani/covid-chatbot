@@ -123,7 +123,7 @@ class ChatTree {
                 // console.log(String(this.chat_tree['message']),String("getJoke()"));
                 if(this.chat_tree['message']==="getJoke()"){
                     data = await eval(this.chat_tree['message']);
-                    data = data.value.joke;
+                    data = data.joke;
                 }
                 if(this.chat_tree['message']==="getNews()"){
                     data = await eval(this.chat_tree['message']);
@@ -147,14 +147,7 @@ class ChatTree {
                     let n1 = Math.ceil(q%n)
                     data = data.results[n1].title + "." + " \n " + data.results[n1].abstract + " \n" + data.results[n1].url  ;
                 }
-                if(this.chat_tree['message']==="getJokeEx()"){
-                    data = await eval(this.chat_tree['message']);
-                    data = data.value.joke;
-                }
-                if(this.chat_tree['message']==="getJokeNerdy()"){
-                    data = await eval(this.chat_tree['message']);
-                    data = data.value.joke;
-                }
+               
                 
 
                 
@@ -173,7 +166,7 @@ class ChatTree {
 }
 
 async function getJoke() {
-    const response = await fetch('http://api.icndb.com/jokes/random?firstName=Abu&lastName=Musaddiq');
+    const response = await fetch('https://sv443.net/jokeapi/v2/joke/Any?type=single');
     const jsonResp = await response.json();
     return jsonResp;
 }
@@ -196,15 +189,7 @@ async function getNews2() {
     const jsonResp = await response.json();
     return jsonResp;
 }
-async function getJokeNerdy() {
-    const response = await fetch('http://api.icndb.com/jokes/random?limitTo=[nerdy]');
-    const jsonResp = await response.json();
-    return jsonResp;
-}async function getJokeEx() {
-    const response = await fetch('http://api.icndb.com/jokes/random?limitTo=[explicit]');
-    const jsonResp = await response.json();
-    return jsonResp;
-}
+
 async function getQuote() {
     const response = await fetch('https://type.fit/api/quotes');
     const jsonResp = await response.json();

@@ -2,25 +2,11 @@
   "child_msg" : ["Want to hear a joke ?","What about some news ?","Wanna get motivated ?","Terminate chat"],
   "children" : [
     {
-      "child_msg" : ["Very Funny","Nerdy", "Explicit","Terminate chat"],
-      "children" : [
-        {
+      
           "message" : "getJoke()",
           "type" : "function"
-        },
-        {
-          "message" : "getJokeNerdy()",
-          "type" : "function"
-        },
-        {
-          "message" : "getJokeEx()",
-          "type" : "function"
-        },
-        {
-          "message" : "Your Chat has now ended",
-          "type" : "normal"
-        }
-      ]
+        
+      
     },
     {
       "child_msg" : ["World News","Science News","Tech News","Terminate chat"],
