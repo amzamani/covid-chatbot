@@ -53,3 +53,10 @@ div.background {
     color: #000000;
     padding: 100px;
   }
+  @media(max-width:800px)
+  {
+      .abc{
+        font-size: medium;
+      }
+    }
+  

@@ -98,7 +98,7 @@ class ChatTree {
         //console.log(input);
         if(this.firstMsg===true) {
             this.firstMsg = false;
-            resp += "Hey there buddy<br>";
+            resp += "Hey there buddy , respond with a number :<br>";
         } else {
 
             if(("message" in this.chat_tree) && ((input.trim()=="Reset"))||(input.trim()=="reset")) {
