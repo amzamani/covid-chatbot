@@ -141,6 +141,10 @@ class ChatTree {
                     let n1 = Math.ceil(q%n)
                     data = data.results[n1].title + "." +" \n " + data.results[n1].abstract + " \n" + data.results[n1].url  ;
                 }
+                if(this.chat_tree['message']==="getTravel()"){
+                    data = await eval(this.chat_tree['message']);
+                    
+                }
                 if(this.chat_tree['message']==="getNews2()"){
                     data = await eval(this.chat_tree['message']);
                     let n = data.num_results;
@@ -168,6 +172,17 @@ class ChatTree {
 async function getJoke() {
     const response = await fetch('https://sv443.net/jokeapi/v2/joke/Any?type=single');
     const jsonResp = await response.json();
+    return jsonResp;
+}
+async function getTravel() {
+    
+    const jsonResp = " It is prudent for travellers who are sick to delay or avoid travel to affected areas, in particular for elderly travellers and people with chronic diseases or underlying health conditions. “Affected areas” are considered those countries, provinces, territories or cities experiencing ongoing transmission of COVID-19, in contrast to areas reporting only imported cases. <br> " + 
+
+   " 𝗧𝗿𝗮𝘃𝗲𝗹𝗹𝗲𝗿𝘀 𝗿𝗲𝘁𝘂𝗿𝗻𝗶𝗻𝗴 𝗳𝗿𝗼𝗺 𝗮𝗳𝗳𝗲𝗰𝘁𝗲𝗱 𝗮𝗿𝗲𝗮𝘀 𝘀𝗵𝗼𝘂𝗹𝗱: <br>" +
+    
+    "🌡 Self-monitor for symptoms for 14 days and follow national protocols of receiving countries. Some countries may require returning travellers to enter quarantine. <br> " +
+    
+    "🤒 If symptoms occur, such as fever, or cough or difficulty breathing, travellers are advised to contact local health care providers, preferably by phone, and inform them of their symptoms and their travel history. <br>"
     return jsonResp;
 }
 

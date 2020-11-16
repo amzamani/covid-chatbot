@@ -1,33 +1,22 @@
 {
-  "child_msg" : ["Want to hear a joke ?","What about some news ?","Wanna get motivated ?","Terminate chat"],
+  "child_msg" : ["Travel Advice ?","How to prevent the spread of the Virus ?","What are the symptoms of COVID-19?","+ more to be added"],
   "children" : [
     {
       
-          "message" : "getJoke()",
+          "message" : "getTravel()",
           "type" : "function"
         
       
     },
     {
-      "child_msg" : ["World News","Science News","Tech News","Terminate chat"],
-      "children" : [
-        {
-          "message" : "getNews()",
-          "type" : "function"
-        },
-        {
-          "message" : "getNews1()",
-          "type" : "function"
-        },
-        {
-          "message" : "getNews2()",
-          "type" : "function"
-        },
-        {
-          "message" : "Your Chat has now ended",
-          "type" : "normal"
-        }
-      ]
+    "children" : 
+      {
+        
+            "message" : "getPrevent()",
+            "type" : "function"
+          
+        
+      }
     },
     {
       "message" : "getQuote()",
