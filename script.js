@@ -186,27 +186,47 @@ async function getTravel() {
     return jsonResp;
 }
 
-async function getNews() {
+// async function getNews() {
     
-    const response = await fetch('https://api.nytimes.com/svc/topstories/v2/home.json?api-key=QJqLn6OcDEABCBC11kTCjoOmRCU0Jrma');
-    const jsonResp = await response.json();
-    return jsonResp;
-}
-async function getNews1() {
+//     const response = await fetch('https://api.nytimes.com/svc/topstories/v2/home.json?api-key=QJqLn6OcDEABCBC11kTCjoOmRCU0Jrma');
+//     const jsonResp = await response.json();
+//     return jsonResp;
+// }
+// async function getNews1() {
     
-    const response = await fetch('https://api.nytimes.com/svc/topstories/v2/science.json?api-key=QJqLn6OcDEABCBC11kTCjoOmRCU0Jrma');
-    const jsonResp = await response.json();
-    return jsonResp;
-}
-async function getNews2() {
+//     const response = await fetch('https://api.nytimes.com/svc/topstories/v2/science.json?api-key=QJqLn6OcDEABCBC11kTCjoOmRCU0Jrma');
+//     const jsonResp = await response.json();
+//     return jsonResp;
+// }
+// async function getNews2() {
     
-    const response = await fetch('https://api.nytimes.com/svc/topstories/v2/technology.json?api-key=QJqLn6OcDEABCBC11kTCjoOmRCU0Jrma');
-    const jsonResp = await response.json();
-    return jsonResp;
-}
+//     const response = await fetch('https://api.nytimes.com/svc/topstories/v2/technology.json?api-key=QJqLn6OcDEABCBC11kTCjoOmRCU0Jrma');
+//     const jsonResp = await response.json();
+//     return jsonResp;
+// }
 
-async function getQuote() {
-    const response = await fetch('https://type.fit/api/quotes');
-    const jsonResp = await response.json();
+// async function getSymp() {
+    
+//     const jsonResp = "symptoms Bluish lips or face Severe and constant pain or pressure in the chest" + "Extreme difficulty breathing (such as gasping for air, being unable to talk without catching your breath, severe wheezing, nostrils flaring)" + 
+//     + "New disorientation (acting confused)Unconscious or very difficult to wake up";
+    
+//     // Slurred speech or difficulty speaking (new or worsening)
+    
+//     // New or worsening seizures
+    
+//     // Signs of low blood pressure (too weak to stand, dizziness, lightheaded, feeling cold, pale, clammy skin)
+    
+//     // Dehydration (dry lips and mouth, not urinating much, sunken eyes)"
+//     return jsonResp;
+// }
+async function getSymp() {
+    
+    const jsonResp = " symptoms Bluish lips or face Severe and constant pain or pressure in the chest<br> " + 
+
+   " Extreme difficulty breathing such as gasping for air, being unable to talk without catching your breath, severe wheezing, nostrils flaring <br>" +
+    
+    " New disorientation (acting confused)Unconscious or very difficult to wake up<br> " +
+    
+    "🤒 If symptoms occur, such as fever, or cough or difficulty breathing, travellers are advised to contact local health care providers, preferably by phone, and inform them of their symptoms and their travel history. <br>"
     return jsonResp;
 }
