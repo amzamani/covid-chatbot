@@ -4,6 +4,9 @@
     "Statistical Covid Data of India",
     "What are the symptoms of COVID-19?",
     "News on Covid in India ",
+    "Detailed Stats on Covid in India ",
+    "World News",
+    "Facilities Contact Details",
     "Terminate Chat ( + more to be added soon )"
   ],
   "children": [
@@ -29,6 +32,18 @@
     {
       "message": "getCNews()",
       "type": "function"
+    },
+    {
+      "child_msg": [ " <a  href=\"#detail\">Click here </a>to get Detailed Stats "],
+      "type": "normal"
+    },
+    {
+      "child_msg": [ " <a  href=\"#worldnews\">Click here </a>to get Detailed World News "],
+      "type": "normal"
+    },
+    {
+      "child_msg": [ " <a  href=\"#facility\">Click here </a>to get List of Facilities available "],
+      "type": "normal"
     },
     {
       "message": "Your Chat has now ended ",
