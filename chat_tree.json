@@ -1,8 +1,9 @@
 {
   "child_msg": [
     "Travel Advice ?",
-    "How to prevent the spread of the Virus ?",
+    "Statistical Covid Data of India",
     "What are the symptoms of COVID-19?",
+    "News on Covid in India ",
     "+ more to be added"
   ],
   "children": [
@@ -11,17 +12,24 @@
       "type": "function"
     },
     {
-      
-        "message": "getPrevent()",
-        "type": "function"
-      
+      "message": "getDatas()",
+      "type": "function"
     },
-     
-      {
-        "message": "getSymp()",
-        "type": "function"
-      }
-    ,
+    {
+      "child_msg": [
+        " Extreme difficulty breathing (such as gasping for air, being unable to talk without catching your breath, severe wheezing, nostrils flaring) <br>",
+        "Bluish lips or face with Severe and constant pain or pressure in the chest <br>",
+        "New disorientation (acting confused) <br>",
+        "Unconscious or very difficult to wake up<br> ",
+        "Signs of low blood pressure (too weak to stand, dizziness, lightheaded, feeling cold, pale, clammy skin) <br>      ",
+        " Dehydration (dry lips and mouth, not urinating much, sunken eyes) <br> Please input Reset to reset chat now"
+      ],
+      "type": "normal"
+    },
+    {
+      "message": "getCNews()",
+      "type": "function"
+    },
     {
       "message": "Your Chat has now ended ",
       "type": "normal"

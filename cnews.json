@@ -1,0 +1,1272 @@
+{
+    "location": {
+        "long": 78.0,
+        "countryOrRegion": "India",
+        "provinceOrState": null,
+        "county": null,
+        "isoCode": "IN",
+        "lat": 21.0
+    },
+    "updatedDateTime": "2020-11-21T11:26:52.7277465Z",
+    "news": [
+        {
+            "path": "_news/2020-11-20-coronavirus-live-news-india-passes-9m-cases-eu-to-pay-10bn-for-vaccines.md",
+            "title": "Coronavirus live news: India passes 9m cases; EU 'to pay $10bn for vaccines'",
+            "excerpt": "Bloc will buy 425m doses of treatments from Pfizer/BioNTech and CureVac; US has recorded 1m cases in past week; Russia and Japan on ‘maximum alert’",
+            "sourceUrl": null,
+            "webUrl": "https://www.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel?page=with:block-5fb7670f8f081d2fbd0dac07",
+            "originalUrl": "https://www.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel?page=with:block-5fb7670f8f081d2fbd0dac07",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 112,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": [
+                {
+                    "url": "https://i.guim.co.uk/img/media/21202f906ff2bf92e15fa9347ffba9d35ac98e70/0_196_5034_3020/master/5034.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb836257ba51e00335e178e1277b7dfa",
+                    "width": 600,
+                    "height": 360,
+                    "title": null,
+                    "attribution": null,
+                    "isCached": true
+                }
+            ],
+            "type": "article",
+            "ampWebUrl": "https://amp.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel",
+            "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel",
+            "publishedDateTime": "2020-11-19T23:51:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "The Guardian",
+                "domain": "theguardian.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-20-india-coronavirus-how-a-group-of-volunteers-exposed-hidden-covid-19-deaths.md",
+            "title": "India coronavirus: How a group of volunteers 'exposed' hidden Covid-19 deaths",
+            "excerpt": "Since March, a group of volunteers in India's southern state of Kerala have trawled local papers and news networks for reports on deaths due to Covid-19. Led by Dr Arun Madhavan, a general medicine physician,",
+            "sourceUrl": null,
+            "webUrl": "https://www.bbc.com/news/amp/world-asia-india-54985981",
+            "originalUrl": "https://www.bbc.com/news/amp/world-asia-india-54985981",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 97,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": null,
+            "type": "article",
+            "ampWebUrl": "https://www.bbc.com/news/amp/world-asia-india-54985981",
+            "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-asia-india-54985981",
+            "publishedDateTime": "2020-11-19T16:19:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "BBC",
+                "domain": "bbc.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-19-india-nears-nine-million-coronavirus-cases.md",
+            "title": "India nears nine million coronavirus cases",
+            "excerpt": "MUMBAI (Reuters) - India recorded 45,576 new cases of the coronavirus, taking total infections to 8.96 million, data from the health ministry said on Thursday. The South Asian nation has the world’s second-highest number of COVID-19 infections ...",
+            "sourceUrl": null,
+            "webUrl": "https://www.reuters.com/article/health-coronavirus-india-cases-idINKBN27Z0EN",
+            "originalUrl": "https://www.reuters.com/article/health-coronavirus-india-cases-idINKBN27Z0EN",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 125,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": null,
+            "type": "article",
+            "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN27Z0EN",
+            "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27Z0EN",
+            "publishedDateTime": "2020-11-18T22:39:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "Reuters",
+                "domain": "reuters.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-19-indias-drugmakers-will-be-essential-in-covid-19-therapy-production-says-public-health-expert.md",
+            "title": "India's drugmakers will be 'essential' in Covid-19 therapy production, says public health expert",
+            "excerpt": "India's generic drugmakers will have an \"essential\" role to play in making Covid-19 therapeutics available to low- and middle-income countries, a United Nations-backed public health body has said. Charles Gore, executive director of Medicines Patent Pool ...",
+            "sourceUrl": null,
+            "webUrl": "https://www.cnbc.com/2020/11/19/indian-drugmakers-will-be-essential-in-covid-19-therapy-production.html",
+            "originalUrl": "https://www.cnbc.com/2020/11/19/indian-drugmakers-will-be-essential-in-covid-19-therapy-production.html",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 72,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": null,
+            "type": "article",
+            "ampWebUrl": "https://www.cnbc.com/amp/2020/11/19/indian-drugmakers-will-be-essential-in-covid-19-therapy-production.html",
+            "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/19/indian-drugmakers-will-be-essential-in-covid-19-therapy-production.html",
+            "publishedDateTime": "2020-11-18T20:11:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "CNBC",
+                "domain": "cnbc.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-18-india-and-china-to-produce-russias-vaccine.md",
+            "title": "India and China to produce Russia's vaccine",
+            "excerpt": "Watch \"India and China to produce Russia's 'Sputnik V' coronavirus vaccine after trials claim it is 92 percent effective\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
+            "sourceUrl": null,
+            "webUrl": "https://www.cbsnews.com/live/video/20201118125308-india-and-china-to-produce-russias-sputnik-v-coronavirus-vaccine-after-trials-claim-it-is-92-percent-effective/",
+            "originalUrl": "https://www.cbsnews.com/live/video/20201118125308-india-and-china-to-produce-russias-sputnik-v-coronavirus-vaccine-after-trials-claim-it-is-92-percent-effective/",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 120,
+            "tags": [
+                "CN",
+                "Russia",
+                "RU",
+                "India",
+                "IN"
+            ],
+            "images": [
+                {
+                    "url": "https://images-cbsn.cbsnews.com/prod/2020/11/18/story_07745061_1605704010.jpg",
+                    "width": 480,
+                    "height": 270,
+                    "title": null,
+                    "attribution": null,
+                    "isCached": true
+                }
+            ],
+            "type": "article",
+            "ampWebUrl": null,
+            "cdnAmpWebUrl": null,
+            "publishedDateTime": "2020-11-18T05:06:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "CBS News",
+                "domain": "cbsnews.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in China",
+                "Coronavirus in Asia",
+                "Coronavirus",
+                "Coronavirus in Europe"
+            ]
+        },
+        {
+            "path": "_news/2020-11-18-indias-tally-of-coronavirus-infections-exceeds-89-million.md",
+            "title": "India's tally of coronavirus infections exceeds 8.9 million",
+            "excerpt": "India recorded 38,617 new coronavirus infections, taking its tally to 8.9 million, health ministry data showed on Wednesday.",
+            "sourceUrl": null,
+            "webUrl": "https://www.reuters.com/article/health-coronavirus-india-cases-idUSKBN27Y0DX",
+            "originalUrl": "https://www.reuters.com/article/health-coronavirus-india-cases-idUSKBN27Y0DX",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": null,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": [
+                {
+                    "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541592993&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH087",
+                    "width": 816,
+                    "height": 545,
+                    "title": null,
+                    "attribution": null,
+                    "isCached": true
+                }
+            ],
+            "type": "article",
+            "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Y0DX",
+            "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y0DX",
+            "publishedDateTime": "2020-11-18T04:10:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "Reuters",
+                "domain": "reuters.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-17-india-pins-hopes-on-locally-tested-covid-19-vaccines-given-pfizer-constraints.md",
+            "title": "India pins hopes on locally-tested COVID-19 vaccines given Pfizer constraints",
+            "excerpt": "India hopes five locally-tested vaccines will help it to control COVID-19, as those developed by Pfizer <PFE.N> and Moderna <MRNA.O> may not be available to it in big quantities soon.",
+            "sourceUrl": null,
+            "webUrl": "https://www.reuters.com/article/us-health-coronavirus-vaccines-india-idINKBN27X1R6",
+            "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-vaccines-india-idINKBN27X1R6",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 102,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": [
+                {
+                    "url": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541498811&r=LYNXMPEGAG10I&w=800",
+                    "width": 800,
+                    "height": 485,
+                    "title": null,
+                    "attribution": null,
+                    "isCached": true
+                }
+            ],
+            "type": "article",
+            "ampWebUrl": null,
+            "cdnAmpWebUrl": null,
+            "publishedDateTime": "2020-11-17T06:07:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "Reuters",
+                "domain": "reuters.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-17-coronavirus-phase-three-trials-of-india-made-vaccine-begin.md",
+            "title": "Coronavirus: Phase three trials of India-made vaccine begin",
+            "excerpt": "Trials for India’s first COVID-19 vaccine Covaxin have begun with about 26,000 participants, Bharat Biotech said.",
+            "sourceUrl": null,
+            "webUrl": "https://www.aljazeera.com/news/2020/11/17/coronavirus-phase-3-trials-of-india-made-vaccine-begins",
+            "originalUrl": "https://www.aljazeera.com/news/2020/11/17/coronavirus-phase-3-trials-of-india-made-vaccine-begins",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 85,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": [
+                {
+                    "url": "https://www.aljazeera.com/wp-content/uploads/2020/11/GettyImages-1224647662.jpg?resize=1200%2C630",
+                    "width": 1200,
+                    "height": 630,
+                    "title": null,
+                    "attribution": null,
+                    "isCached": true
+                }
+            ],
+            "type": "article",
+            "ampWebUrl": "https://www.aljazeera.com/amp/news/2020/11/17/coronavirus-phase-3-trials-of-india-made-vaccine-begins",
+            "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/11/17/coronavirus-phase-3-trials-of-india-made-vaccine-begins",
+            "publishedDateTime": "2020-11-17T03:44:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "Al Jazeera English",
+                "domain": "aljazeera.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-17-coronavirus-cases-in-india-drop-to-lowest-since-mid-july.md",
+            "title": "Coronavirus cases in India drop to lowest since mid-July",
+            "excerpt": "Daily coronavirus infections in India fell to their lowest since mid-July, with 29,163 new cases reported for the last 24 hours, taking the total to 8.87 million, the health ministry said on Tuesday.",
+            "sourceUrl": null,
+            "webUrl": "https://www.reuters.com/article/health-coronavirus-india-cases/coronavirus-cases-in-india-drop-to-lowest-since-mid-july-idUSL1N2I308Y",
+            "originalUrl": "https://www.reuters.com/article/health-coronavirus-india-cases/coronavirus-cases-in-india-drop-to-lowest-since-mid-july-idUSL1N2I308Y",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 85,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": null,
+            "type": "article",
+            "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2I308Y",
+            "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2I308Y",
+            "publishedDateTime": "2020-11-17T01:45:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "Reuters",
+                "domain": "reuters.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-17-india-considers-easing-investment-rules-from-neighbours-including-china-et.md",
+            "title": "India considers easing investment rules from neighbours, including China - ET",
+            "excerpt": "India is considering a plan to allow up to 26% foreign direct investment from countries with which it shares a land border, including China, without government scrutiny for some sectors, the Economic Times reported on Tuesday,",
+            "sourceUrl": null,
+            "webUrl": "https://www.reuters.com/article/india-china-investment/india-considers-easing-investment-rules-from-neighbours-including-china-et-idUSL1N2I308V",
+            "originalUrl": "https://www.reuters.com/article/india-china-investment/india-considers-easing-investment-rules-from-neighbours-including-china-et-idUSL1N2I308V",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 107,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": null,
+            "type": "article",
+            "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2I308V",
+            "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2I308V",
+            "publishedDateTime": "2020-11-16T21:20:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "Reuters",
+                "domain": "reuters.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus",
+                "Coronavirus in China"
+            ]
+        },
+        {
+            "path": "_news/2020-11-16-indian-drugmaker-biological-e-starts-human-trials-of-covid-19-vaccine-candidate.md",
+            "title": "Indian drugmaker Biological E. starts human trials of COVID-19 vaccine candidate",
+            "excerpt": "India's Biological E. Ltd has started human trials of its COVID-19 vaccine candidate and expects results by February, the drugmaker said on Monday.",
+            "sourceUrl": null,
+            "webUrl": "https://www.reuters.com/article/us-health-coronavirus-india-vaccine-idUSKBN27W1T4",
+            "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-india-vaccine-idUSKBN27W1T4",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 100,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": [
+                {
+                    "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541364841&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF0YS",
+                    "width": 801,
+                    "height": 545,
+                    "title": null,
+                    "attribution": null,
+                    "isCached": true
+                }
+            ],
+            "type": "article",
+            "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27W1T4",
+            "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W1T4",
+            "publishedDateTime": "2020-11-16T06:32:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "Reuters",
+                "domain": "reuters.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-16-be-begins-covid-19-vaccine-trial-in-india-containing-dynavaxs-cpg-1018-quick-facts.md",
+            "title": "BE Begins COVID-19 Vaccine Trial In India Containing Dynavax's CpG 1018 - Quick Facts",
+            "excerpt": "Limited has initiated a phase I/II clinical trial of its COVID-19 subunit vaccine candidate in India following approval from the Drugs Controller General of India. The vaccine candidate includes an antigen in-licensed from BCM Ventures,",
+            "sourceUrl": null,
+            "webUrl": "https://www.nasdaq.com/articles/be-begins-covid-19-vaccine-trial-in-india-containing-dynavaxs-cpg-1018-quick-facts-2020-11",
+            "originalUrl": "https://www.nasdaq.com/articles/be-begins-covid-19-vaccine-trial-in-india-containing-dynavaxs-cpg-1018-quick-facts-2020-11",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 88,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": null,
+            "type": "article",
+            "ampWebUrl": "https://www.nasdaq.com/articles/be-begins-covid-19-vaccine-trial-in-india-containing-dynavaxs-cpg-1018-quick-facts-2020-11?amp",
+            "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/be-begins-covid-19-vaccine-trial-in-india-containing-dynavaxs-cpg-1018-quick-facts-2020-11?amp",
+            "publishedDateTime": "2020-11-16T03:15:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "Nasdaq",
+                "domain": "nasdaq.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-16-india-to-fly-in-medical-staff-ramp-up-testing-amid-rising-cases-in-delhi.md",
+            "title": "India to fly in medical staff, ramp up testing amid rising cases in Delhi",
+            "excerpt": "India will fly doctors in from other regions, double the quantity of tests carried out and ensure people wear masks in efforts to contain the coronavirus spread in the capital New Delhi, Home Minister Amit Shah said on Sunday.",
+            "sourceUrl": null,
+            "webUrl": "https://www.reuters.com/article/health-coronavirus-india-idINKBN27V0K9",
+            "originalUrl": "https://www.reuters.com/article/health-coronavirus-india-idINKBN27V0K9",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 89,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": [
+                {
+                    "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541296176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF02T",
+                    "width": 817,
+                    "height": 545,
+                    "title": null,
+                    "attribution": null,
+                    "isCached": true
+                }
+            ],
+            "type": "article",
+            "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN27V0K9",
+            "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27V0K9",
+            "publishedDateTime": "2020-11-15T22:37:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "Reuters",
+                "domain": "reuters.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-16-soumitra-chatterjee-legend-of-indian-cinema-dies-at-85-of-coronavirus-complications.md",
+            "title": "Soumitra Chatterjee, legend of Indian cinema, dies at 85 of coronavirus complications",
+            "excerpt": "Soumitra Chatterjee, the legendary Indian actor with more than 200 movies to his name, died Sunday of coronavirus complications. He was 85.",
+            "sourceUrl": null,
+            "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/11/15/indian-cinema-legend-soumitra-chatterjee-dies-85-coronavirus/6304501002/",
+            "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/11/15/indian-cinema-legend-soumitra-chatterjee-dies-85-coronavirus/6304501002/",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 78,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": null,
+            "type": "article",
+            "ampWebUrl": "https://amp.usatoday.com/amp/6304501002",
+            "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6304501002",
+            "publishedDateTime": "2020-11-15T12:01:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "USA Today",
+                "domain": "usatoday.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-16-indian-acting-legend-soumitra-chatterjee-dies-from-coronavirus-at-85.md",
+            "title": "Indian acting legend Soumitra Chatterjee dies from coronavirus at 85",
+            "excerpt": "Soumitra Chatterjee, a legendary Indian actor known for his collaborations with with Oscar-winning director Satyajit Ray, died from complications of coronavirus on Sunday at the age of 85.",
+            "sourceUrl": null,
+            "webUrl": "https://www.nydailynews.com/coronavirus/ny-coronavirus-soumitra-chatterjee-indian-actor-dies-20201115-4qkms77k2vfvdmokv7myotsft4-story.html",
+            "originalUrl": "https://www.nydailynews.com/coronavirus/ny-coronavirus-soumitra-chatterjee-indian-actor-dies-20201115-4qkms77k2vfvdmokv7myotsft4-story.html",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": null,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": [
+                {
+                    "url": "https://www.nydailynews.com/resizer/2eXiodmptjFRgBNFKz2OjA2LCgg=/1200x0/right/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BEKVOK3C5NH4PAFQL5M5WWPIVI.jpg",
+                    "width": 1200,
+                    "height": 803,
+                    "title": null,
+                    "attribution": null,
+                    "isCached": true
+                }
+            ],
+            "type": "article",
+            "ampWebUrl": "https://www.nydailynews.com/coronavirus/ny-coronavirus-soumitra-chatterjee-indian-actor-dies-20201115-4qkms77k2vfvdmokv7myotsft4-story.html?outputType=amp",
+            "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ny-coronavirus-soumitra-chatterjee-indian-actor-dies-20201115-4qkms77k2vfvdmokv7myotsft4-story.html?outputType=amp",
+            "publishedDateTime": "2020-11-15T11:57:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "New York Daily News",
+                "domain": "nydailynews.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-16-indian-acting-icon-soumitra-chatterjee-dies-at-85-after-contracting-coronavirus.md",
+            "title": "Indian acting icon Soumitra Chatterjee dies at 85 after contracting coronavirus",
+            "excerpt": "Chatterjee, best known internationally for his long association with Oscar-winning filmmaker Satyajit Ray, died on Sunday in Kolkata.",
+            "sourceUrl": null,
+            "webUrl": "https://www.nbcnews.com/pop-culture/pop-culture-news/indian-acting-icon-soumitra-chatterjee-dies-85-after-contracting-coronavirus-n1247866",
+            "originalUrl": "https://www.nbcnews.com/pop-culture/pop-culture-news/indian-acting-icon-soumitra-chatterjee-dies-85-after-contracting-coronavirus-n1247866",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": null,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": null,
+            "type": "article",
+            "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1247866",
+            "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247866",
+            "publishedDateTime": "2020-11-15T09:54:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "NBC News",
+                "domain": "nbcnews.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-15-india-rate-cuts-bets-fall-as-recovery-gains-hold-inflation-stays-high.md",
+            "title": "India rate cuts bets fall as recovery gains hold, inflation stays high",
+            "excerpt": "Negative real rates in India and recovering growth alongside high inflation suggest its central bank has little room for more monetary stimulus, but policy is likely to stay accommodative, economists and analysts said.",
+            "sourceUrl": null,
+            "webUrl": "https://www.reuters.com/article/india-economy-rates-idINKBN27V06K",
+            "originalUrl": "https://www.reuters.com/article/india-economy-rates-idINKBN27V06K",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 90,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": [
+                {
+                    "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541246795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE059",
+                    "width": 838,
+                    "height": 545,
+                    "title": null,
+                    "attribution": null,
+                    "isCached": true
+                }
+            ],
+            "type": "article",
+            "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN27V06K",
+            "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27V06K",
+            "publishedDateTime": "2020-11-15T04:43:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "Reuters",
+                "domain": "reuters.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-15-asia-today-india-reports-41100-new-coronavirus-cases.md",
+            "title": "Asia Today: India reports 41,100 new coronavirus cases",
+            "excerpt": "India has reported 41,100 new cases of the coronavirus, raising the country’s overall tally since the pandemic began to 8.79 million. The Health Ministry on Sunday",
+            "sourceUrl": null,
+            "webUrl": "https://apnews.com/article/pandemics-prisons-sri-lanka-india-coronavirus-pandemic-0af8067184270795363de7a6c32af488/gallery/d56fc31236f844f2a7cfad1d3b99b4bc",
+            "originalUrl": "https://apnews.com/article/pandemics-prisons-sri-lanka-india-coronavirus-pandemic-0af8067184270795363de7a6c32af488/gallery/d56fc31236f844f2a7cfad1d3b99b4bc",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": null,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": [
+                {
+                    "url": "https://storage.googleapis.com/afs-prod/media/d56fc31236f844f2a7cfad1d3b99b4bc/3000.jpeg",
+                    "width": 3000,
+                    "height": 1989,
+                    "title": null,
+                    "attribution": null,
+                    "isCached": true
+                }
+            ],
+            "type": "article",
+            "ampWebUrl": null,
+            "cdnAmpWebUrl": null,
+            "publishedDateTime": "2020-11-15T02:37:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "Associated Press",
+                "domain": "apnews.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-15-northern-india-chokes-on-toxic-smog-day-after-diwali-festival.md",
+            "title": "Northern India chokes on toxic smog day after Diwali festival",
+            "excerpt": "Hundreds of millions of Indians in north India woke up on Sunday to toxic air following Diwali, the Hindu festival of lights, after many revellers defied bans on using firecrackers to celebrate.",
+            "sourceUrl": null,
+            "webUrl": "https://www.reuters.com/article/religion-diwali-india-pollution/northern-india-chokes-on-toxic-smog-day-after-diwali-festival-idUSKBN27V04I",
+            "originalUrl": "https://www.reuters.com/article/religion-diwali-india-pollution/northern-india-chokes-on-toxic-smog-day-after-diwali-festival-idUSKBN27V04I",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 90,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": [
+                {
+                    "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541252928&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE07M",
+                    "width": 817,
+                    "height": 545,
+                    "title": null,
+                    "attribution": null,
+                    "isCached": true
+                }
+            ],
+            "type": "article",
+            "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27V04I",
+            "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V04I",
+            "publishedDateTime": "2020-11-15T02:26:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "Reuters",
+                "domain": "reuters.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-15-indias-capital-is-battling-a-surge-in-coronavirus-cases-just-as-pollution-levels-spike.md",
+            "title": "India’s capital is battling a surge in coronavirus cases just as pollution levels spike",
+            "excerpt": "The 66-year-old retiree suffers from asthma that is aggravated by the severe pollution in India’s capital. Now a virus that makes people struggle to breathe is stalking her family. Sarkar’s son and older brother were both infected with the novel coronavirus.",
+            "sourceUrl": null,
+            "webUrl": "https://www.washingtonpost.com/world/asia_pacific/india-delhi-coronavirus-pollution/2020/11/14/2e8745ca-2479-11eb-9c4a-0dc6242c4814_story.html",
+            "originalUrl": "https://www.washingtonpost.com/world/asia_pacific/india-delhi-coronavirus-pollution/2020/11/14/2e8745ca-2479-11eb-9c4a-0dc6242c4814_story.html",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 97,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": [
+                {
+                    "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KTKONMRF3II6XFJOBRDVS4WPYA.jpg&w=1440",
+                    "width": 1440,
+                    "height": 913,
+                    "title": null,
+                    "attribution": null,
+                    "isCached": true
+                }
+            ],
+            "type": "article",
+            "ampWebUrl": "https://www.washingtonpost.com/world/asia_pacific/india-delhi-coronavirus-pollution/2020/11/14/2e8745ca-2479-11eb-9c4a-0dc6242c4814_story.html?outputType=amp",
+            "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/asia_pacific/india-delhi-coronavirus-pollution/2020/11/14/2e8745ca-2479-11eb-9c4a-0dc6242c4814_story.html?outputType=amp",
+            "publishedDateTime": "2020-11-15T02:03:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "Washington Post",
+                "domain": "washingtonpost.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-15-india-celebrates-diwali-amid-coronavirus-pandemic.md",
+            "title": "India celebrates Diwali amid coronavirus pandemic",
+            "excerpt": "More than a billion people are celebrating Diwali, the festival of lights. Across India, celebrations are taking place including lighting lamps and setting off fireworks. In some places, the authorities have tried to encourage people to celebrate from home in order to reduce the spread of coronavirus.",
+            "sourceUrl": null,
+            "webUrl": "https://www.nbcnews.com/video/india-celebrates-diwali-amid-coronavirus-pandemic-95935557953",
+            "originalUrl": "https://www.nbcnews.com/video/india-celebrates-diwali-amid-coronavirus-pandemic-95935557953",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": null,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": [
+                {
+                    "url": "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/Diwali-celebrations-thumbnail.jpg",
+                    "width": 1920,
+                    "height": 1080,
+                    "title": null,
+                    "attribution": null,
+                    "isCached": true
+                }
+            ],
+            "type": "article",
+            "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo95935557953",
+            "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95935557953",
+            "publishedDateTime": "2020-11-14T16:05:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "NBC News",
+                "domain": "nbcnews.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-14-from-street-kid-in-india-to-top-toronto-chef.md",
+            "title": "From ‘Street Kid’ in India to Top Toronto Chef",
+            "excerpt": "After a rugged childhood, Sash Simpson realized his dream last year when he opened a high-end restaurant. Within months, the pandemic struck.",
+            "sourceUrl": null,
+            "webUrl": "https://www.nytimes.com/2020/11/13/world/canada/sash-simpson-toronto-chef.html",
+            "originalUrl": "https://www.nytimes.com/2020/11/13/world/canada/sash-simpson-toronto-chef.html",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 90,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/11/13/world/13profile-simpson-08/13profile-simpson-08-facebookJumbo.jpg",
+                    "width": 1050,
+                    "height": 550,
+                    "title": null,
+                    "attribution": null,
+                    "isCached": true
+                }
+            ],
+            "type": "article",
+            "ampWebUrl": "https://www.nytimes.com/2020/11/13/world/canada/sash-simpson-toronto-chef.amp.html",
+            "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/world/canada/sash-simpson-toronto-chef.amp.html",
+            "publishedDateTime": "2020-11-13T17:48:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "New York Times",
+                "domain": "nytimes.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-14-covid-indias-festival-season-doesnt-stop-for-coronavirus.md",
+            "title": "Covid: India's festival season doesn't stop for coronavirus",
+            "excerpt": "India already has the second highest number of Covid cases worldwide, but a relatively low death rate. The country’s prime minister has so far ruled out a second lockdown.",
+            "sourceUrl": null,
+            "webUrl": "https://www.bbc.co.uk/news/av/world-asia-54934883",
+            "originalUrl": "https://www.bbc.co.uk/news/av/world-asia-54934883",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 70,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": [
+                {
+                    "url": "https://ichef.bbci.co.uk/images/ic/400xn/p08ydrmz.jpg",
+                    "width": 400,
+                    "height": 225,
+                    "title": null,
+                    "attribution": null,
+                    "isCached": true
+                }
+            ],
+            "type": "article",
+            "ampWebUrl": null,
+            "cdnAmpWebUrl": null,
+            "publishedDateTime": "2020-11-13T16:35:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "BBC",
+                "domain": "bbc.co.uk",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-14-high-food-prices-hurting-indias-poor-pain-to-persist.md",
+            "title": "High food prices hurting India's poor, pain to persist",
+            "excerpt": "India's retail inflation may stay elevated for at least three more months after hitting a six-year high in October, as excess rain has damaged standing crops and seedlings, while edible oils that the country imports have become expensive.",
+            "sourceUrl": null,
+            "webUrl": "https://www.reuters.com/article/india-economy-inflation-idUSKBN27T20U",
+            "originalUrl": "https://www.reuters.com/article/india-economy-inflation-idUSKBN27T20U",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 90,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": [
+                {
+                    "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541121364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC13S",
+                    "width": 846,
+                    "height": 545,
+                    "title": null,
+                    "attribution": null,
+                    "isCached": true
+                }
+            ],
+            "type": "article",
+            "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27T20U",
+            "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T20U",
+            "publishedDateTime": "2020-11-13T11:46:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "Reuters",
+                "domain": "reuters.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-13-indias-festive-mood-raises-fears-of-surge-of-coronavirus.md",
+            "title": "India's festive mood raises fears of surge of coronavirus",
+            "excerpt": "The crowds filling shopping areas ahead of the Diwali festival of lights are raising hopes of India’s distressed business community after months of lockdown losses",
+            "sourceUrl": null,
+            "webUrl": "https://abcnews.go.com/Business/wireStory/indias-festive-mood-raises-fears-surge-coronavirus-74186972",
+            "originalUrl": "https://abcnews.go.com/Business/wireStory/indias-festive-mood-raises-fears-surge-coronavirus-74186972",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": null,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": [
+                {
+                    "url": "https://s.abcnews.com/images/Health/WireAP_53be432871024c68852c46e68393f46a_16x9_992.jpg",
+                    "width": 992,
+                    "height": 558,
+                    "title": null,
+                    "attribution": null,
+                    "isCached": true
+                }
+            ],
+            "type": "article",
+            "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/indias-festive-mood-raises-fears-surge-coronavirus-74186972",
+            "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/indias-festive-mood-raises-fears-surge-coronavirus-74186972",
+            "publishedDateTime": "2020-11-13T07:35:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "ABC",
+                "domain": "abcnews.go.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-13-indias-vegetable-oil-imports-drop-13-in-2019-20-industry-body.md",
+            "title": "India's vegetable oil imports drop 13% in 2019-20 - industry body",
+            "excerpt": "India's vegetable oil imports fell 13% in the marketing year to October, a leading trade body said on Friday, due to a sluggish demand from hotels and restaurants which bore the brunt of the coronavirus pandemic.",
+            "sourceUrl": null,
+            "webUrl": "https://www.reuters.com/article/india-oils-idUSKBN27T13U",
+            "originalUrl": "https://www.reuters.com/article/india-oils-idUSKBN27T13U",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 70,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": null,
+            "type": "article",
+            "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27T13U",
+            "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T13U",
+            "publishedDateTime": "2020-11-13T06:56:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "Reuters",
+                "domain": "reuters.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-13-asia-gold-festive-rush-lights-up-indian-market-again.md",
+            "title": "Asia Gold-Festive rush lights up Indian market again",
+            "excerpt": "Consumers flocked to jewellery shops again in India this week to snap up Diwali and Dhanteras festival deals, with a retreat in prices also adding to the sparkle in the world's second biggest bullion consumer.",
+            "sourceUrl": null,
+            "webUrl": "https://www.reuters.com/article/india-gold-demand-idUSL4N2HZ2KL",
+            "originalUrl": "https://www.reuters.com/article/india-gold-demand-idUSL4N2HZ2KL",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 85,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": null,
+            "type": "article",
+            "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2HZ2KL",
+            "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2HZ2KL",
+            "publishedDateTime": "2020-11-13T04:58:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "Reuters",
+                "domain": "reuters.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-13-this-years-diwali-is-a-litmus-test-for-indias-economic-recovery-from-covid-19.md",
+            "title": "This year's Diwali is a 'litmus test' for India's economic recovery from Covid-19",
+            "excerpt": "The year-end period of 2020 will determine India's future consumption story, with its economy depending on festive season demand to bounce back from pandemic lows. CNBC's Tanvir Gill reports.",
+            "sourceUrl": null,
+            "webUrl": "https://www.cnbc.com/video/2020/11/13/2020-diwali-is-litmus-test-for-indias-economic-recovery-from-covid.html",
+            "originalUrl": "https://www.cnbc.com/video/2020/11/13/2020-diwali-is-litmus-test-for-indias-economic-recovery-from-covid.html",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 85,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": null,
+            "type": "article",
+            "ampWebUrl": null,
+            "cdnAmpWebUrl": null,
+            "publishedDateTime": "2020-11-12T21:37:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "CNBC",
+                "domain": "cnbc.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus",
+                "Treatment"
+            ]
+        },
+        {
+            "path": "_news/2020-11-13-indias-serum-says-made-40-million-doses-of-astrazenecas-covid-vaccine-to-make-novavax-shot-soon.md",
+            "title": "India's Serum says made 40 million doses of AstraZeneca's COVID vaccine, to make Novavax shot soon",
+            "excerpt": "Serum Institute of India, the world's largest vaccine producer, said on Thursday it has made 40 million doses of AstraZeneca's potential COVID-19 vaccine, and would soon begin making Novavax's rival shot,",
+            "sourceUrl": null,
+            "webUrl": "https://www.reuters.com/article/health-coronavirus-vaccine-india-idUSKBN27S0J1",
+            "originalUrl": "https://www.reuters.com/article/health-coronavirus-vaccine-india-idUSKBN27S0J1",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": null,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": [
+                {
+                    "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540928536&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB0AP",
+                    "width": 808,
+                    "height": 545,
+                    "title": null,
+                    "attribution": null,
+                    "isCached": true
+                }
+            ],
+            "type": "article",
+            "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27S0J1",
+            "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S0J1",
+            "publishedDateTime": "2020-11-12T10:06:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "Reuters",
+                "domain": "reuters.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus"
+            ]
+        },
+        {
+            "path": "_news/2020-11-12-india-unveils-yet-more-stimulus-as-coronavirus-hobbles-economy.md",
+            "title": "India Unveils Yet More Stimulus as Coronavirus Hobbles Economy",
+            "excerpt": "The finance ministry listed new policies to encourage investment and hiring to support those who are suffering the most.",
+            "sourceUrl": null,
+            "webUrl": "https://www.wsj.com/articles/india-unveils-yet-more-stimulus-as-coronavirus-hobbles-economy-11605184924",
+            "originalUrl": "https://www.wsj.com/articles/india-unveils-yet-more-stimulus-as-coronavirus-hobbles-economy-11605184924",
+            "featuredContent": null,
+            "highlight": null,
+            "heat": 140,
+            "tags": [
+                "India",
+                "IN"
+            ],
+            "images": [
+                {
+                    "url": "https://images.wsj.net/im-258905/social",
+                    "width": 1280,
+                    "height": 640,
+                    "title": null,
+                    "attribution": null,
+                    "isCached": true
+                }
+            ],
+            "type": "article",
+            "ampWebUrl": "https://www.wsj.com/amp/articles/india-unveils-yet-more-stimulus-as-coronavirus-hobbles-economy-11605184924",
+            "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/india-unveils-yet-more-stimulus-as-coronavirus-hobbles-economy-11605184924",
+            "publishedDateTime": "2020-11-12T04:56:00-08:00",
+            "updatedDateTime": null,
+            "provider": {
+                "name": "Wall Street Journal",
+                "domain": "wsj.com",
+                "images": null,
+                "publishers": null,
+                "authors": null
+            },
+            "locale": "en-us",
+            "categories": [
+                "news"
+            ],
+            "topics": [
+                "Coronavirus in Asia",
+                "Coronavirus",
+                "Economic Impact"
+            ]
+        }
+    ]
+}
