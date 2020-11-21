@@ -1,8 +1,6 @@
-html,
-body {
-    
-    display: flex;
-    flex-direction: column;
+html, body {
+  display: flex;
+  flex-direction: column;
 }
 
 /* #chatdiv {
@@ -27,36 +25,58 @@ body {
     display: flex;
     margin: 0 auto;
 } */
+
 div.background {
-    background: url(/pngguru.com.png);
-    width: 587px;
-    height: 100%;
-    align-content: center;
-    text-align: center;
-    
+  background: url(/pngguru.com.png);
+  width: 587px;
+  height: 100%;
+  align-content: center;
+  text-align: center;
+}
+
+div.transbox {
+  background-color: #ffffff;
+  padding: 100px;
+  opacity: 0.6;
+  height: 100%;
+  text-align: center;
+  color: #000000;
+}
+
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+div.transbox p {
+  margin: 20%;
+  font-weight: bold;
+  color: #000000;
+  padding: 100px;
+}
+
+@media(max-width:800px) {
+  .abc {
+    font-size: medium;
   }
-  
-  div.transbox {
-    
-    background-color: #ffffff;
-    padding: 100px;
-    
-    opacity: 0.6;
-    height: 100%;
-    text-align: center;
-    color: #000000;
-  }
-  
-  div.transbox p {
-    margin: 20%;
-    font-weight: bold;
-    color: #000000;
-    padding: 100px;
-  }
-  @media(max-width:800px)
-  {
-      .abc{
-        font-size: medium;
-      }
-    }
-  
+}

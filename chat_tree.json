@@ -34,15 +34,15 @@
       "type": "function"
     },
     {
-      "child_msg": [ " <a  href=\"#detail\">Click here </a>to get Detailed Stats "],
+      "child_msg": [ " <a  href=\"#detail\">Click here </a>to get Detailed Stats or type <b>Reset</b> to start again "],
       "type": "normal"
     },
     {
-      "child_msg": [ " <a  href=\"#worldnews\">Click here </a>to get Detailed World News "],
+      "child_msg": [ " <a  href=\"#worldnews\">Click here </a>to get Detailed World News or type <b>Reset</b> to start again "],
       "type": "normal"
     },
     {
-      "child_msg": [ " <a  href=\"#facility\">Click here </a>to get List of Facilities available "],
+      "child_msg": [ " <a  href=\"#facility\">Click here </a>to get List of Facilities available or type <b>Reset</b> to start again  "],
       "type": "normal"
     },
     {
