@@ -34,7 +34,7 @@
       "type": "function"
     },
     {
-      "child_msg": [ " <a  href=\"#detail\">Click here </a>to get Detailed Stats or type <b>Reset</b> to start again "],
+      "child_msg": [ " <a  href=\"https://www.bing.com/covid/local/india?form=C19WID&vert=graph\">Click here </a>to get Detailed Stats or type <b>Reset</b> to start again "],
       "type": "normal"
     },
     {
